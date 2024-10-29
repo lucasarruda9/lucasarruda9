@@ -1,6 +1,6 @@
 
 <h1 align="center">Olá 👋, Sou Lucas Mendonça Arruda</h1>
-<h3 align="center">MESTRE em Python</h3>
+<h3 align="center">Senior em Python e html</h3>
 
 - 🌱 Aprendendo **ReactJs**
 
