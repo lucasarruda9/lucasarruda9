@@ -1,12 +1,14 @@
 <h1 align="center">Olá 👋, Sou Lucas Mendonça Arruda</h1>
 <h3 align="center">Desenvolvedor Python</h3>
 
-- 🌱 Atualmente aprendendo **Estrutura de dados em C**
-- 📫 Contato: **lucasmendoncaarruda5@gmail.com**
+---
+
+- 🌱 Atualmente aprendendo **Estruturas de Dados em C**  
+- 📫 Contato: **lucasmendoncaarruda5@gmail.com**  
 
 ---
 
-### 🚀 Tecnologias que já utilizei:
+## 🚀 Tecnologias que já utilizei:
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
@@ -23,11 +25,15 @@
 
 ---
 
-### 📊 Estatísticas:
+## 📌 Projetos que contribui:
+- [🔗 Aplicativo de agricultura familiar](https://github.com/Feudo-Rosa-Flor-de-Cerejeira/PolegarVerde) - Backend com implementação do banco de dados Firebase
+- [🔗 Análise de Gastos Públicos](https://github.com/unb-mds/Gastos-DF-2024-02) - Backend e Frontend com criação de tabelas por meio da Api do governo e estilização delas.  
+
+---
+
+## 📊 Estatísticas:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasarruda9&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=lucasarruda9&show_icons=true&theme=radical" alt="Status do GitHub"/>
-  <br><br>
-  
 </div>
